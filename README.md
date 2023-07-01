@@ -13,7 +13,6 @@ In this Prohect I have Learned About Some Important Tags like .....
 -> Anchor Tag <br>
 -> Paragraph Tag <br>
 
-<B> MOTIVE TO CREATE THIS PAGE
- <B>
-The Motive To Create This Basic Page To Learn The Practical Implementation Of These Tags as well as Clarity Of Cocepts...
+<B> MOTIVE TO CREATE THIS PAGE <B>->
+<i>The Motive To Create This Basic Page To Learn The Practical Implementation Of These Tags as well as Clarity Of Cocepts...<i>
  
